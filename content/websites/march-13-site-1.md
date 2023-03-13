@@ -3,7 +3,7 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: March 13 Site 1 Course desc.
+course_description: March 13 Site 1 Course desc. modified
 course_image:
   content: ''
   website: march-13-site-1
