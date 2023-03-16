@@ -19,7 +19,6 @@ course_image_thumbnail:
 course_title: Biology Teaching Assistant (TA) Training
 department_numbers:
 - '7'
-draft: true
 extra_course_numbers: ''
 instructors:
   content:

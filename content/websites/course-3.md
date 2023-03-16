@@ -13,7 +13,6 @@ course_image_thumbnail:
 course_title: Course 3
 department_numbers:
 - '3'
-draft: true
 extra_course_numbers: ''
 instructors:
   content: []
