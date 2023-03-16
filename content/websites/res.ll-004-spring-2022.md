@@ -18,7 +18,6 @@ course_image_thumbnail:
 course_title: 'LL EduCATE: Introduction to Engineering Concepts'
 department_numbers:
 - RES
-draft: true
 extra_course_numbers: ''
 instructors:
   content:
