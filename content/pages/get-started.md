@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This page provides users with information about OCW and how to utilize
-  the site.  sdfsdfds
+  the site.dsdf
 draft: false
 title: Get Started
 uid: e166242e-6b45-43f0-9d17-9bbab1be91dd
@@ -39,7 +39,7 @@ Some popular destinations include:
 - [Courses with Video or Audio Lectures](https://ocw.mit.edu/search/?f=Lecture%20Videos&s=-runs.best_start_date)
 - [Most Popular Courses](https://ocw.mit.edu/course-lists/most-popular-courses/)
 
-For more inspiration, read [OCW Stories](https://ocw.mit.edu/testimonials/) from students and self-learners.
+For more inspiration, read [OCW Stories](https://ocw.mit.edu/stories/) from students and self-learners.
 
 ## Top Frequently Asked Questions
 
