@@ -13,7 +13,6 @@ course_image_thumbnail:
 course_title: Test Site MB
 department_numbers:
 - '1'
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:
