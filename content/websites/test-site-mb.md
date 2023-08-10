@@ -27,7 +27,7 @@ primary_course_number: '1'
 term: Spring
 title: Test Site MB
 topics: []
-uid: 882d6b0e-1f24-4a07-b3ec-abecad0752a7
+uid: a1aba1c3-d416-482f-afaa-db6f5f86f888
 url_path: courses/1-test-site-mb-spring-2027
 year: '2027'
 ---
