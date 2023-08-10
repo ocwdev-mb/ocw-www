@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: 186c5208-6d70-4572-ae90-5d627d532bc5
+  name: p1 link
+  pageRef: /pages/p1
+  weight: 10
