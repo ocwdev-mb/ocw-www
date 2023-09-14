@@ -1,5 +1,5 @@
 mainmenu:
-- identifier: 186c5208-6d70-4572-ae90-5d627d532bc5
+- identifier: 8abf8eab-ee9b-47a6-a8a6-bc55ec632f1b
   name: p1 link
-  pageRef: /pages/p1
+  pageRef: /pages/page-www
   weight: 10
