@@ -36,7 +36,7 @@ title: Workshop I
 topics:
 - - Fine Arts
   - Media Studies
-uid: 4d865380-178f-4452-bd49-62c97fb8926b
+uid: 4940d11d-d9b4-460f-84e5-45fefe1236ba
 url_path: courses/cms-950-workshop-i-fall-2005
 year: '2005'
 ---

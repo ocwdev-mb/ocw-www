@@ -45,7 +45,7 @@ topics:
 - - Engineering
   - Computer Science
   - Human-Computer Interfaces
-uid: c7a67c9f-6053-4cc5-bec3-0008a843b909
+uid: 60e5173c-05a4-40e6-a98d-b5a112f68d90
 url_path: courses/mas-964-common-sense-reasoning-for-interactive-applications-fall-2002
 year: '2002'
 ---

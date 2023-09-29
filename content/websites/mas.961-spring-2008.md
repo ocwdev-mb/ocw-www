@@ -54,7 +54,7 @@ topics:
   - Digital Media
 - - Social Science
   - Communication
-uid: ac6c8774-a550-4e05-a0bf-4216eb62f0cf
+uid: ad4d3c7b-123b-41bd-9550-706943d984bc
 url_path: courses/mas-961-special-topics-designing-sociable-media-spring-2008
 year: '2008'
 ---

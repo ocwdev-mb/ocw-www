@@ -41,7 +41,7 @@ title: Technology Policy Organizations
 topics:
 - - Business
   - Organizational Behavior
-uid: 14603ec0-c89e-4684-8e9a-dfc732a79f30
+uid: d38b0ed0-b70f-4364-b2a1-fdff39f79dfb
 url_path: courses/esd-932-technology-policy-organizations-spring-2005
 year: '2005'
 ---

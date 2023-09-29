@@ -123,7 +123,7 @@ topics:
   - Signal Processing
 - - Health and Medicine
   - Biomedical Instrumentation
-uid: 168c75ec-5d5b-4539-8e43-b8f2f9f42921
+uid: 407cfe75-be10-49d9-bb30-bbca46049bef
 url_path: courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008
 year: '2008'
 ---

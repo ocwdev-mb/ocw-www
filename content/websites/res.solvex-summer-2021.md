@@ -31,6 +31,7 @@ course_title: Business and Impact Planning for Social Enterprises (0.SolveX)
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - e9f1bf72-c40e-b762-0f5a-6cf11e06d9bd
@@ -48,7 +49,7 @@ topics:
   - Entrepreneurship
 - - Business
   - Management
-uid: 1fb744b5-8c19-4a09-a30b-8764221af235
+uid: 9a42a9fd-c957-44f1-a10c-470973e3a0e8
 url_path: courses/res-solvex-business-and-impact-planning-for-social-enterprises-0-solvex-summer-2021
 year: '2021'
 ---

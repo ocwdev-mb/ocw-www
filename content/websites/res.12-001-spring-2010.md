@@ -50,7 +50,7 @@ topics:
 - - Science
   - Physics
   - Classical Mechanics
-uid: 9e329379-cb1a-43ff-a898-f47426b2c945
+uid: 873edb5b-73e6-4fb5-932a-c0cee4090fee
 url_path: courses/res-12-001-topics-in-fluid-dynamics-spring-2010
 year: '2010'
 ---

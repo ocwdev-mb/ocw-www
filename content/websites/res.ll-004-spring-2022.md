@@ -8,7 +8,9 @@ course_description: "Welcome to \u201CIntroduction to Engineering Concepts,\" a 
   \ that are helpful across many engineering disciplines. We also explain the engineering/research\
   \ development process. This lesson assumes little to no prior engineering experience\
   \ but does provide suggestions to increase the difficulty of the experiments should\
-  \ you desire to do so."
+  \ you desire to do so.\n\nThis course is provided by MIT Lincoln Laboratory, a research\
+  \ and development laboratory focusing on advanced technologies to meet critical\
+  \ national security needs."
 course_image:
   content: f06efaf9-f23a-451b-bfd2-efc6e0448a28
   website: ll-educate-introduction-to-engineering-concepts
@@ -41,7 +43,7 @@ term: Spring
 title: 'LL EduCATE: Introduction to Engineering Concepts'
 topics:
 - - Engineering
-uid: 0d09b592-6f67-4431-8803-b838281bf747
+uid: 3fe4bcdb-1b97-4dd7-8118-8a10e5a91609
 url_path: courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022
 year: '2022'
 ---

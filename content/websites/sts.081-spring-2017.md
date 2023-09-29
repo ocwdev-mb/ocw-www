@@ -40,7 +40,7 @@ topics:
   - Economics
   - Public Economics
 - - Society
-uid: e00952e0-45ce-48fd-a06e-c9b39584f739
+uid: 9cf40778-ff0e-4f35-91eb-0ef776886aed
 url_path: courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017
 year: '2017'
 ---

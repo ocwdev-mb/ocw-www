@@ -52,7 +52,7 @@ topics:
 - - Science
   - Biology
   - Neuroscience
-uid: ebb4ad3e-c79c-4bab-9872-de91876539ac
+uid: b68f030b-f3f0-43a7-8e29-4b9a28da1c9a
 url_path: courses/hst-725-music-perception-and-cognition-spring-2009
 year: '2009'
 ---

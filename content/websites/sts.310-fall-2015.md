@@ -42,7 +42,7 @@ topics:
 - - Humanities
   - History
   - Intellectual History
-uid: c245094f-dddb-4a4e-b41d-2dd11a25de67
+uid: e88d2fe3-c887-47cd-a3cb-3716f5cb8bac
 url_path: courses/sts-310-history-of-science-fall-2015
 year: '2015'
 ---

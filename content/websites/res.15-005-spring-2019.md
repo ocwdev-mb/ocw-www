@@ -25,7 +25,9 @@ course_image_thumbnail:
 course_title: Healthcare Finance (15.482x)
 department_numbers:
 - RES
-extra_course_numbers: ''
+- '15'
+extra_course_numbers: 15.482x, 15.482
+hide_download: true
 instructors:
   content:
   - 744a26f3-c3cf-9dd6-bd52-a8d351dbfc8e
@@ -44,7 +46,7 @@ topics:
   - Health Care Management
 - - Business
   - Management
-uid: 0b59196d-7a09-425a-8c19-ccf313d077fe
+uid: 54b0e6c5-4ecd-411b-9a57-1803a6bca0b2
 url_path: courses/res-15-005-healthcare-finance-15-482x-spring-2019
 year: '2019'
 ---

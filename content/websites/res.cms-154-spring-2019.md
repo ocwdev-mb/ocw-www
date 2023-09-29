@@ -33,6 +33,7 @@ course_title: Launching Innovation in Schools
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 89666a17-6a2a-c8a6-7d92-867266505def
@@ -53,7 +54,7 @@ topics:
   - Education Policy
 - - Teaching and Education
   - Educational Technology
-uid: 77c913c6-592d-4dad-970c-3f66da44cf02
+uid: 10202834-f48b-4604-9644-6afc8c77bba8
 url_path: courses/res-cms-154-launching-innovation-in-schools-spring-2019
 year: '2019'
 ---

@@ -24,6 +24,7 @@ course_title: Introduction to Radar Systems
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 457e7f07-0be1-ec57-ae01-777a4e2aaf86
@@ -45,7 +46,7 @@ topics:
 - - Science
   - Physics
   - Electromagnetism
-uid: 4e39ed99-f494-4946-b7a0-7a35d72dd337
+uid: 0d0011fb-1aff-4ecc-80d7-a47e25e997c3
 url_path: courses/res-ll-001-introduction-to-radar-systems-spring-2007
 year: '2007'
 ---

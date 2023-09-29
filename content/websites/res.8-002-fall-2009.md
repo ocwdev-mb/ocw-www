@@ -27,6 +27,7 @@ course_title: A WikiTextBook for Introductory Mechanics
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 2a1545d1-cec1-efc1-1403-179d085ec617
@@ -45,7 +46,7 @@ topics:
 - - Science
   - Physics
   - Classical Mechanics
-uid: 5c96c8c8-f7f1-44a4-b78b-631e13c8e44c
+uid: b1a27b87-7735-497c-98f7-3d9a9c249bb5
 url_path: courses/res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009
 year: '2009'
 ---

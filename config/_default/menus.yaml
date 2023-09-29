@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: 8abf8eab-ee9b-47a6-a8a6-bc55ec632f1b
+  name: p1 link
+  pageRef: /pages/page-www
+  weight: 10

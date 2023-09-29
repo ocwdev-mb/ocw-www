@@ -45,7 +45,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: e80903e3-ff0b-4afb-80d9-fab461f12e94
+uid: 9f63019c-a906-4f7a-8b57-a32360c235dd
 url_path: courses/cms-600-videogame-theory-and-analysis-fall-2007
 year: '2007'
 ---

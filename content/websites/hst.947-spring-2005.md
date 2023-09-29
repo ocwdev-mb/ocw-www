@@ -43,7 +43,7 @@ topics:
   - Biotechnology
 - - Health and Medicine
   - Biomedicine
-uid: 64a65e1e-358d-4434-a207-722f24d838c3
+uid: 293466d3-9f72-43b3-ae9c-48de77fe5f29
 url_path: courses/hst-947-medical-artificial-intelligence-spring-2005
 year: '2005'
 ---

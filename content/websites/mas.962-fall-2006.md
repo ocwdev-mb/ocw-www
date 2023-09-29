@@ -43,7 +43,7 @@ topics:
   - Cognitive Science
 - - Fine Arts
   - Media Studies
-uid: c3eec426-a13d-4fed-88a1-45fefcb0c2af
+uid: 8287a6df-46a1-40b2-a81b-10fb2ef37025
 url_path: courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006
 year: '2006'
 ---

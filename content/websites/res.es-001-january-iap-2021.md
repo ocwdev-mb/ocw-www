@@ -34,7 +34,7 @@ title: MIT Prison Education Initiative Discussion About Incarceration
 topics:
 - - Social Science
 - - Society
-uid: 29253462-a026-4c43-86ac-4f2cd713c397
+uid: 9722c447-edb0-4ded-9d9e-edf28beb8d83
 url_path: courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021
 year: '2021'
 ---

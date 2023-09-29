@@ -44,7 +44,7 @@ topics:
   - Marketing
 - - Engineering
   - Systems Engineering
-uid: bfe01107-05d9-421f-8577-24420e5799ee
+uid: 1fa55a09-be1e-44da-86b7-553451f149ba
 url_path: courses/esd-57-technology-based-business-transformation-fall-2007
 year: '2007'
 ---

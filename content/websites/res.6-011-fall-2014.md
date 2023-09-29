@@ -42,7 +42,7 @@ topics:
 - - Mathematics
   - Computation
 - - Science
-uid: 2f1299a0-9476-4763-b1f4-ae654952eb8f
+uid: 9023c56b-bcaa-4902-96b7-6bc68c16b397
 url_path: courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014
 year: '2014'
 ---

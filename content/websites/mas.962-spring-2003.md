@@ -39,7 +39,7 @@ topics:
   - Curriculum and Teaching
 - - Humanities
   - Philosophy
-uid: 9edbc4ae-e6ed-43c0-86f5-e412e8dc228c
+uid: 60e26649-943f-4b1b-8577-71826eb671d4
 url_path: courses/mas-962-the-nature-of-constructionist-learning-spring-2003
 year: '2003'
 ---

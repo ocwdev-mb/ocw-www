@@ -23,6 +23,7 @@ course_title: Blended Learning Open Source Science or Math Studies (BLOSSOMS)
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - d4d925c1-c4c8-1d6c-d859-f74e751d5f02
@@ -42,7 +43,7 @@ topics:
   - Curriculum and Teaching
 - - Teaching and Education
   - Educational Technology
-uid: e429246b-3ede-4e03-89d9-74f6718551aa
+uid: 13d21aa5-1915-4d83-a4bb-d4b4b7235485
 url_path: courses/res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010
 year: '2010'
 ---

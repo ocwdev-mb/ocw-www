@@ -74,7 +74,7 @@ topics:
 - - Science
   - Physics
   - Quantum Mechanics
-uid: d6fbae67-0276-4bab-83ab-93f57860d731
+uid: fac285d0-8faf-40d7-aef3-d6e093c760eb
 url_path: courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008
 year: '2008'
 ---

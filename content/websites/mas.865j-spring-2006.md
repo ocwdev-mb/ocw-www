@@ -45,7 +45,7 @@ topics:
 - - Engineering
   - Computer Science
   - Theory of Computation
-uid: 925e0630-e065-4da4-b15e-d9f787d5f6bc
+uid: e8960e13-7a81-4eea-9825-1a621830ceeb
 url_path: courses/mas-865j-quantum-information-science-spring-2006
 year: '2006'
 ---

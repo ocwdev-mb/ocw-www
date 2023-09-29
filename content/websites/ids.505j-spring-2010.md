@@ -51,7 +51,7 @@ topics:
 - - Social Science
   - Economics
   - Industrial Organization
-uid: cb40f106-63ae-4786-808a-8ce150c327d6
+uid: 5308a11e-9ff0-4306-9d6b-256fb5207fc9
 url_path: courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010
 year: '2010'
 ---

@@ -41,7 +41,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: cd6a6d6d-5249-4a4f-8134-e9a524914066
+uid: 2f419bbc-be13-48d1-a0b5-83ab22ce81cd
 url_path: courses/cms-615-games-for-social-change-fall-2013
 year: '2013'
 ---

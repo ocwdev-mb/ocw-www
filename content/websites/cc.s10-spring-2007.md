@@ -46,7 +46,7 @@ topics:
 - - Humanities
   - Philosophy
   - Political Philosophy
-uid: 5ff21bbc-0251-48f3-85f3-b8b351d42a2f
+uid: 6cb137d8-a445-42bf-be24-43f024b5a785
 url_path: courses/cc-s10-prohibition-and-permission-spring-2007
 year: '2007'
 ---

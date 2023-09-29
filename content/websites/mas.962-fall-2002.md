@@ -43,7 +43,7 @@ topics:
   - Computation
 - - Fine Arts
   - Media Studies
-uid: 3deb51cf-227b-4895-839c-fa267fb7123a
+uid: 3e10aea9-7092-45a6-a717-396edfe081f5
 url_path: courses/mas-962-special-topics-in-media-technology-computational-semantics-fall-2002
 year: '2002'
 ---

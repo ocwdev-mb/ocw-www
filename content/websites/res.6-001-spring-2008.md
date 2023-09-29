@@ -67,7 +67,7 @@ topics:
 - - Science
   - Physics
   - Electromagnetism
-uid: 5c608ade-9289-45fb-a6c2-286af45077db
+uid: 422633cc-81e6-4b9f-8405-df5a718051c6
 url_path: courses/res-6-001-electromagnetic-fields-and-energy-spring-2008
 year: '2008'
 ---

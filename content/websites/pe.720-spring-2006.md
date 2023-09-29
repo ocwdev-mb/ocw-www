@@ -37,7 +37,7 @@ topics:
   - Health and Exercise Science
 - - Health and Medicine
   - Physical Education and Recreation
-uid: 91f38c95-2ac0-4a2f-a100-a7b97dd5649e
+uid: 8ac838fd-b536-4b08-b59b-702f19ad8fc1
 url_path: courses/pe-720-weight-training-spring-2006
 year: '2006'
 ---

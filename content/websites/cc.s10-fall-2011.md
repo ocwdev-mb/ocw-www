@@ -39,7 +39,7 @@ topics:
   - Intellectual History
 - - Humanities
   - Philosophy
-uid: f396ac04-aadc-4ef9-84fc-9ca7e9925e4b
+uid: 943a7da1-9c67-483e-80e2-d1e071d10351
 url_path: courses/cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011
 year: '2011'
 ---

@@ -43,7 +43,7 @@ topics:
   - Artificial Intelligence
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 4c609dfb-16cf-4337-b018-f623a27fffa4
+uid: 8d18c2f2-7d08-4cd9-8b53-d21466c2e079
 url_path: courses/res-mas-002-day-of-ai-spring-2022
 year: '2022'
 ---

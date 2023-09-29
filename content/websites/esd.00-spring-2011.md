@@ -41,7 +41,7 @@ title: Introduction to Engineering Systems
 topics:
 - - Engineering
   - Systems Engineering
-uid: 6061b160-36dd-459b-ab52-588cf26c3b78
+uid: 98f4a282-80a8-49d4-a39b-262c7cbefe3a
 url_path: courses/esd-00-introduction-to-engineering-systems-spring-2011
 year: '2011'
 ---

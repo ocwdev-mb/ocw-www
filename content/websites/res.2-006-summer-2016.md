@@ -55,7 +55,7 @@ topics:
 - - Engineering
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 24882cbd-6972-4d4a-80fe-39657473dd90
+uid: b7562c32-8b2b-4757-878c-9a013ffd6896
 url_path: courses/res-2-006-girls-who-build-cameras-summer-2016
 year: '2016'
 ---

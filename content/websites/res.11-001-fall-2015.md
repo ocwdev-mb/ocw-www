@@ -22,6 +22,7 @@ course_title: CITE Reports
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 880f6366-47a0-9009-987b-e6e08b1cdd27
@@ -39,7 +40,7 @@ topics:
 - - Social Science
   - Public Administration
   - Science and Technology Policy
-uid: c268e624-7068-4060-9911-bb9dafb5bfed
+uid: 3a894184-d4a2-4bb5-89e0-b90a098e91d3
 url_path: courses/res-11-001-cite-reports-fall-2015
 year: '2015'
 ---

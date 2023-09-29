@@ -37,7 +37,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 2dc11c3a-47e0-40ad-9ed9-6c7bf2c2b7fe
+uid: a9cfe54e-28ff-4809-96c7-484cc6a6e04f
 url_path: courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011
 year: '2011'
 ---

@@ -42,7 +42,7 @@ topics:
 - - Science
   - Chemistry
   - Organic Chemistry
-uid: 0b3e9cec-02fc-47ba-b743-550cf6814275
+uid: bcf2e9fa-b356-40ca-9cfd-ab718cfdc649
 url_path: courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019
 year: '2019'
 ---

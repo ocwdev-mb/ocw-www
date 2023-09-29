@@ -42,7 +42,7 @@ topics:
 - - Engineering
   - Electrical Engineering
   - Electronics
-uid: 10d66629-6aa2-4e57-a76a-5d8a3f82696d
+uid: a00926ed-b16e-42a6-8b47-905ec38c3598
 url_path: courses/ec-s06-practical-electronics-fall-2004
 year: '2004'
 ---

@@ -19,6 +19,7 @@ course_title: RAISE (Responsible AI for Social Empowerment and Education)
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 12212598-b448-e70b-1c32-5555dcf0248c
@@ -36,7 +37,7 @@ topics:
   - Artificial Intelligence
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 00629d56-5f09-480c-b8a5-32c8a569c260
+uid: cd0eaffc-40e0-4d93-ac36-09112894be03
 url_path: courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022
 year: '2022'
 ---

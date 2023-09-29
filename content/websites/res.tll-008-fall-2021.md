@@ -45,7 +45,7 @@ legacy_uid: 4b630d24-af1d-39ef-ed88-f533aa11e4a0
 level:
 - Non Credit
 primary_course_number: RES.TLL-008
-term: Fall
+term: Spring
 title: Social and Ethical Responsibilities of Computing (SERC)
 topics:
 - - Engineering
@@ -57,7 +57,7 @@ topics:
   - Curriculum and Teaching
 - - Teaching and Education
   - Higher Education
-uid: 5f5a7158-5469-4216-9d6b-dbf64d7475d2
+uid: 9b47070f-1c73-46df-9cfd-b5dd1e443714
 url_path: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc
-year: '2022'
+year: '2023'
 ---

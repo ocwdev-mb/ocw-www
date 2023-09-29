@@ -39,7 +39,7 @@ title: Leadership Development
 topics:
 - - Business
   - Leadership
-uid: 8fae6db2-c0b6-41d6-9466-c084b6295641
+uid: 278192e5-ea78-47ee-bd5a-5d3a94d5452a
 url_path: courses/ids-910-leadership-development-fall-2014
 year: '2014'
 ---

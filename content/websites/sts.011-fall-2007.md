@@ -54,7 +54,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: 255d5b14-497a-46a2-aa96-48fe40b90cc7
+uid: c4d18458-f7f0-488c-8fd4-813e5ecebed6
 url_path: courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007
 year: '2007'
 ---

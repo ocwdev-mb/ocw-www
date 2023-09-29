@@ -41,7 +41,7 @@ topics:
 - - Business
   - Business Ethics
 - - Engineering
-uid: 44ad7e77-9ba3-43dd-b76b-e1ce98bcfdeb
+uid: f1321f4d-849c-4786-9e8b-99480d825532
 url_path: courses/esd-932-engineering-ethics-spring-2006
 year: '2006'
 ---

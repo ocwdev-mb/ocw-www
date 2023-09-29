@@ -54,7 +54,7 @@ topics:
   - Computer Science
 - - Health and Medicine
   - Biomedical Instrumentation
-uid: f3f45da6-d211-4fb9-b7a3-82a0a71a3177
+uid: 35bc6af2-7ce4-4571-97ec-c4c466e2f6a1
 url_path: courses/hst-952-computing-for-biomedical-scientists-fall-2002
 year: '2002'
 ---

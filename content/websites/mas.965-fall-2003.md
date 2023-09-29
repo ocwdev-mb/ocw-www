@@ -39,7 +39,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 2e6a0023-ab19-43d7-8519-9dc26ac4d365
+uid: a14e5987-4b25-48c4-8ac6-71e629417e66
 url_path: courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003
 year: '2003'
 ---

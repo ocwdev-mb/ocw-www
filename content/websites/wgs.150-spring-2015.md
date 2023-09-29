@@ -43,7 +43,7 @@ topics:
   - Women's Studies
 - - Business
   - Organizational Behavior
-uid: b194a296-eb86-484f-a0f4-91c44c20fb2f
+uid: 05516670-5572-4fb1-b018-4ce1d07f23bf
 url_path: courses/wgs-150-gender-power-leadership-and-the-workplace-spring-2015
 year: '2015'
 ---

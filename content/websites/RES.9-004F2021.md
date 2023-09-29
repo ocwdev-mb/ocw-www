@@ -35,6 +35,7 @@ course_title: Nancy's Brain Talks
 department_numbers:
 - '9'
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - a200579a-eaaa-c391-a86b-f6617d0ad929
@@ -53,7 +54,7 @@ topics:
 - - Science
   - Biology
   - Neuroscience
-uid: f0ae7485-3c3c-4659-a5cb-371592330ebe
+uid: 2cb23695-6c4e-4a1f-90da-4b8f7ffe2c43
 url_path: courses/res-9-004-nancys-brain-talks-fall-2022
 year: '2022'
 ---

@@ -55,7 +55,7 @@ topics:
   - Digital Media
 - - Business
   - Project Management
-uid: 2bd125fb-19e4-4a9d-80e2-f19a6a6832ce
+uid: 78aae2b9-a4b5-4c39-8d39-7cec15d3db0d
 url_path: courses/cms-611j-creating-video-games-fall-2014
 year: '2014'
 ---

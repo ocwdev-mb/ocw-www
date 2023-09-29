@@ -75,7 +75,7 @@ topics:
 - - Engineering
   - Biological Engineering
   - Computational Biology
-uid: 501d35d9-bd84-4725-8660-76a818158599
+uid: 05d1a578-3b74-43bd-a80d-df9303532e3c
 url_path: courses/hst-951j-medical-decision-support-spring-2003
 year: '2003'
 ---

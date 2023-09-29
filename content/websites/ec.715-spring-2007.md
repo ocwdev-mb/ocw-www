@@ -49,7 +49,7 @@ topics:
   - Entrepreneurship
 - - Society
   - The Developing World
-uid: 66f8a8e8-674a-4833-96ee-f9101552d5d3
+uid: c06ce329-5910-42ec-91b8-145d04bba39d
 url_path: courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007
 year: '2007'
 ---

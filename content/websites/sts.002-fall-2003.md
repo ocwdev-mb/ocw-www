@@ -38,7 +38,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: 3e99e004-6e91-47f1-bd58-9fe88a6ebf9b
+uid: ad354e34-7b27-4759-b2ab-59b284ee2f1a
 url_path: courses/sts-002-toward-the-scientific-revolution-fall-2003
 year: '2003'
 ---

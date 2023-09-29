@@ -52,7 +52,7 @@ title: Digital Lab Techniques Manual
 topics:
 - - Science
   - Chemistry
-uid: faffa39e-f2b3-4418-9a42-1c71cb7bdf56
+uid: 50973931-e0c1-4b57-822c-7a59f0eb7d41
 url_path: courses/res-5-0001-digital-lab-techniques-manual-spring-2007
 year: '2007'
 ---

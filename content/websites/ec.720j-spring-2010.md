@@ -54,7 +54,7 @@ topics:
   - Sustainability
 - - Society
   - The Developing World
-uid: f7cf09b7-4a1d-4443-87ed-c5bec2c97329
+uid: 06933075-9148-4178-bda0-0f9270a86216
 url_path: courses/ec-720j-d-lab-ii-design-spring-2010
 year: '2010'
 ---

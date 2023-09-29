@@ -38,7 +38,7 @@ topics:
   - Applied Mathematics
 - - Mathematics
   - Computation
-uid: 9f6c31ca-d6ad-4ccf-8931-b182e4da9956
+uid: bb68c9b0-b229-4bba-97bc-b0d4df5d5201
 url_path: courses/res-3-004-visualizing-materials-science-fall-2017
 year: '2017'
 ---

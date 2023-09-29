@@ -47,7 +47,7 @@ topics:
   - Media Studies
 - - Fine Arts
   - Performance Arts
-uid: b80941ca-28ea-4807-84dd-155f04ca5cec
+uid: 31a1793c-1f36-497e-be34-fb66a075cc06
 url_path: courses/cms-997-topics-in-comparative-media-american-pro-wrestling-spring-2007
 year: '2007'
 ---

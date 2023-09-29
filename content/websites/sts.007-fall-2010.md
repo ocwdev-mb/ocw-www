@@ -44,7 +44,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: 4ce99db5-6fae-4e50-9227-6314d1061126
+uid: 84ea65bc-4c6a-4b1d-83ae-1bbcec187c79
 url_path: courses/sts-007-technology-in-history-fall-2010
 year: '2010'
 ---

@@ -38,7 +38,7 @@ topics:
   - Media Studies
 - - Social Science
   - Communication
-uid: 9aa02b4c-f95a-4394-b138-8ba884979da4
+uid: 05a853de-fb10-47d8-81f8-cf8ac0abe894
 url_path: courses/cms-360-introduction-to-civic-media-fall-2012
 year: '2012'
 ---
