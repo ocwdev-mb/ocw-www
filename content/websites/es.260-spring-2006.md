@@ -45,7 +45,7 @@ topics:
   - Fiction
 - - Society
   - Gender Studies
-uid: c9b2291a-7ddd-42d8-b32f-09e5908fc687
+uid: 344e222e-1175-4ad8-9015-7ddc870f7f19
 url_path: courses/es-260-womens-novels-a-weekly-book-club-spring-2006
 year: '2006'
 ---

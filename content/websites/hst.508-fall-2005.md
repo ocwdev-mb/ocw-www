@@ -42,7 +42,7 @@ topics:
 - - Science
   - Biology
   - Proteomics
-uid: 9573a77b-3a6c-4d6c-af1d-a6cf81afadb6
+uid: 5d31e598-c112-44ef-8f18-3afaeaf5f97f
 url_path: courses/hst-508-quantitative-genomics-fall-2005
 year: '2005'
 ---

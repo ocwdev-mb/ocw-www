@@ -45,7 +45,7 @@ topics:
   - Biomedical Enterprise
 - - Business
   - Health Care Management
-uid: a8802d37-db80-48f8-a3ea-a529fde62cff
+uid: 2042128e-5f3f-4edc-8e89-4d7a84e28986
 url_path: courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010
 year: '2010'
 ---

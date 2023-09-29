@@ -37,7 +37,7 @@ topics:
   - Media Studies
 - - Humanities
   - History
-uid: 93205fca-ad37-4dbb-8667-5d10a17a6d54
+uid: b1efb5c6-54ab-47b6-a6d8-eaf9864b37d0
 url_path: courses/cms-801-media-in-transition-fall-2012
 year: '2012'
 ---

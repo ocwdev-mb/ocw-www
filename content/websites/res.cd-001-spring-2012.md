@@ -43,7 +43,7 @@ topics:
   - Women's Studies
 - - Teaching and Education
   - Higher Education
-uid: 774ed21f-3e5e-4b3a-8a57-e2931001cb60
+uid: 5325f42f-d68f-4a8b-8bd9-44fdf52d2a78
 url_path: courses/res-cd-001-leadership-and-empowerment-resources-from-graduate-women-at-mit-gwamit-spring-2012
 year: '2012'
 ---

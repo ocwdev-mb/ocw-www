@@ -52,7 +52,7 @@ topics:
 - - Science
   - Biology
   - Genetics
-uid: 8d61d32a-e91e-4f98-93f7-07a2e224fca1
+uid: 5d09368b-8c1b-44eb-98db-c1f9e307c552
 url_path: courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002
 year: '2002'
 ---

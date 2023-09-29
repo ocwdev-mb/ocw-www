@@ -8,14 +8,15 @@ course_description: "This resource aims to enhance students\u2019 learning of ka
   \ lessons 1\u20135. The video lectures not only teach how to write kanji but also\
   \ provide stories behind the kanji characters."
 course_image:
-  content: ''
+  content: 13c60196-d9ca-4667-bc71-bea88a7a85b4
   website: kanji-learning-any-time-any-place-for-japanese-v
 course_image_thumbnail:
-  content: ''
+  content: b52b06c9-cade-4c2b-8512-fd603ae1df2a
   website: kanji-learning-any-time-any-place-for-japanese-v
-course_title: RES.21G-505 Kanji Learning Any Time, Any Place for Japanese V S22
+course_title: Kanji Learning Any Time, Any Place for Japanese V
 department_numbers:
 - RES
+- 21G
 extra_course_numbers: ''
 instructors:
   content:
@@ -34,7 +35,7 @@ topics:
 - - Humanities
   - Language
   - Japanese
-uid: 3b6e0ec4-2216-47a4-a1e6-7731c924d8f3
+uid: bb9991f0-aae7-447c-b985-a0ebbffd95af
 url_path: courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022
 year: '2022'
 ---

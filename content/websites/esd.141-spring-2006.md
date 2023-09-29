@@ -43,7 +43,7 @@ topics:
   - Systems Engineering
 - - Business
   - Organizational Behavior
-uid: 97b89d5d-73c9-4d19-88c1-61cd96ebf75f
+uid: 46a2811d-5d62-428e-8b5c-3f9464a928a6
 url_path: courses/esd-141-technology-policy-negotiations-spring-2006
 year: '2006'
 ---

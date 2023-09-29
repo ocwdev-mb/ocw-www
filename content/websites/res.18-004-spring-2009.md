@@ -3,9 +3,9 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: "\u201C_Getting an education at MIT is like trying to drink from\
-  \ a firehose._\u201D\n\n\u2014 folk saying\n\n_The Torch or The Firehose: A Guide\
-  \ to Section Teaching_, by MIT Mathematics Professor Arthur Mattuck, is a guide\
+course_description: "\u201C*Getting an education at MIT is like trying to drink from\
+  \ a firehose.*\u201D\n\n\u2014 folk saying\n\n*The Torch or The Firehose: A Guide\
+  \ to Section Teaching*, by MIT Mathematics Professor Arthur Mattuck, is a guide\
   \ to recitation teaching at MIT. During a typical recitation section, a teaching\
   \ assistant (TA) meets with a small group of students to review the most recent\
   \ lecture, expand on the concepts, work through practice problems, and conduct a\
@@ -20,7 +20,7 @@ course_description: "\u201C_Getting an education at MIT is like trying to drink 
   \nIf any significant changes are required to adapt it to the needs of another institution,\
   \ please clearly notify readers that the work is modified from the orginal version\
   \ and provide a link to this web site. For archival purposes, translators should\
-  \ notify [MIT OpenCourseWare](/jsp/feedback.jsp) of their version.\n"
+  \ notify [MIT OpenCourseWare](https://ocw.mit.edu/contact/) of their version."
 course_image:
   content: d88fdbd5-3c84-6d74-0566-1b773ab64d9f
   website: res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009
@@ -31,6 +31,7 @@ course_title: 'The Torch or The Firehose: A Guide to Section Teaching'
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 583cc582-1f48-236c-af5a-b2f4750fef40
@@ -48,7 +49,7 @@ topics:
   - Curriculum and Teaching
 - - Teaching and Education
   - Higher Education
-uid: 9023fa73-9c29-4ec3-a5ac-920ff37bbca6
+uid: d54c27ca-9c2f-4f5f-bedb-bfcd451cfb87
 url_path: courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009
 year: '2009'
 ---

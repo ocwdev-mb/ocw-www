@@ -56,7 +56,7 @@ topics:
   - Linear Algebra
 - - Mathematics
   - Topology and Geometry
-uid: 827a875b-51e6-4db2-ba43-51adac3746bf
+uid: 7dbbbc8f-b750-4e1f-b2f6-75fdafa82606
 url_path: courses/res-8-001-applied-geometric-algebra-spring-2009
 year: '2009'
 ---

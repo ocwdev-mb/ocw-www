@@ -39,7 +39,7 @@ topics:
   - Curriculum and Teaching
 - - Teaching and Education
   - Higher Education
-uid: 910b1abc-d5f0-4418-9524-0d983e079aa0
+uid: 680ce632-f2d0-4c4b-99fe-8a289935bc80
 url_path: courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021
 year: '2021'
 ---

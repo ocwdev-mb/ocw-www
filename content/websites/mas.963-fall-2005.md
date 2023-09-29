@@ -43,7 +43,7 @@ topics:
   - Education Policy
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 6473a937-bfc6-40fc-8a67-0b6b2817a366
+uid: cd7c5b72-2534-42e0-8554-021f44606ff9
 url_path: courses/mas-963-technological-tools-for-school-reform-fall-2005
 year: '2005'
 ---

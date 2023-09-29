@@ -50,7 +50,7 @@ topics:
   - Neuroscience
 - - Science
   - Cognitive Science
-uid: 365bbf57-d672-45ee-9dd0-b085b1920e7e
+uid: 1efb91c4-2507-4360-808e-ecd195862341
 url_path: courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005
 year: '2005'
 ---

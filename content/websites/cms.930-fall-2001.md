@@ -3,17 +3,15 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: 'How can we harness the emerging forms of interactive media to
+course_description: How can we harness the emerging forms of interactive media to
   enhance the learning process? Professor Miyagawa and prominent guest speakers will
   explore a broad range of issues on new media and learning - technical, social, and
   business. Concrete examples of use of media will be presented as case studies. One
-  major theme, though not the only one, is that today''s youth, influenced by video
+  major theme, though not the only one, is that today's youth, influenced by video
   games and other emerging interactive media forms, are acquiring a fundamentally
   different attitude towards media. Media is, for them, not something to be consumed,
   but also to be created. This has broad consequences for how we design media, how
   the young are taught in schools, and how mass media markets will need to adjust.
-
-  '
 course_image:
   content: 2147e0a8-1ce2-6196-9656-32f765e9da72
   website: cms-930-media-education-and-the-marketplace-fall-2001
@@ -26,6 +24,7 @@ department_numbers:
 - 21G
 draft: true
 extra_course_numbers: 21G.034
+hide_download: false
 instructors:
   content:
   - 3ccc00a4-4a5a-8131-447b-f67c5d7e81f1
@@ -43,7 +42,7 @@ topics:
   - Media Studies
 - - Teaching and Education
   - Educational Technology
-uid: 1d5294cb-6037-46ae-9ce3-a6b43830821a
+uid: 2b5b529b-a473-479e-83c8-5255dcbd7763
 url_path: courses/cms-930-media-education-and-the-marketplace-fall-2001
 year: '2001'
 ---

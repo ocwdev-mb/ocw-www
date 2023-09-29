@@ -57,7 +57,7 @@ topics:
   - Urban Planning
 - - Engineering
   - Civil Engineering
-uid: 0dc4afa8-5fd7-4597-9248-6b53a2a85a13
+uid: e1cbaef4-c895-411b-91d5-dbac950f4905
 url_path: courses/sts-036-technology-and-nature-in-american-history-spring-2008
 year: '2008'
 ---

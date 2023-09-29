@@ -43,7 +43,7 @@ topics:
   - Biomedical Instrumentation
 - - Health and Medicine
   - Biomedical Signal and Image Processing
-uid: 479b2ae6-41f4-441f-a7c3-9494556813b5
+uid: 2af914b6-09b4-4391-b3dc-69e5397c7b6d
 url_path: courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013
 year: '2013'
 ---

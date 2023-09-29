@@ -41,7 +41,7 @@ topics:
   - Italian
 - - Society
   - European and Russian Studies
-uid: 6e9c871f-35a1-4f1e-bb7c-dee03612c629
+uid: 6b027eba-42a1-4a78-a679-b8c9b418579f
 url_path: courses/es-s41-speak-italian-with-your-mouth-full-spring-2012
 year: '2012'
 ---

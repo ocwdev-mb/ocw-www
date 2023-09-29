@@ -47,7 +47,7 @@ topics:
 - - Social Science
   - Public Administration
   - Public Policy
-uid: 483e7b62-1a5e-4b51-8f44-00e8fa859b87
+uid: ad2e7d06-429b-4ff7-9c71-065084ca3ca9
 url_path: courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
 year: '2016'
 ---

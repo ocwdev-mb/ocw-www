@@ -55,7 +55,7 @@ topics:
   - Cell and Tissue Engineering
 - - Engineering
   - Nanotechnology
-uid: a81ea485-7f99-4046-994e-dc5ab3eb3d44
+uid: 7649d9a2-c262-457e-8d7b-0d25c8609955
 url_path: courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007
 year: '2007'
 ---

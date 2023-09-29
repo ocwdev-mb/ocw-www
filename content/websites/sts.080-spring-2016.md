@@ -52,7 +52,7 @@ topics:
 - - Social Science
   - Sociology
   - Social Justice
-uid: f3f9b861-f766-4927-90ae-997a9b04091f
+uid: 76be84c5-3c2a-4b59-95e6-c46ba81ede85
 url_path: courses/sts-080-youth-political-participation-spring-2016
 year: '2016'
 ---

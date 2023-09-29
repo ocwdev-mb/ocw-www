@@ -54,7 +54,7 @@ topics:
 - - Social Science
   - Public Administration
   - Environmental Policy
-uid: 7c97fcfd-e4f6-4897-b4ec-d288193d2c42
+uid: 1c171e8c-9713-4bfa-a62f-13954b704267
 url_path: courses/esd-s43-green-supply-chain-management-spring-2014
 year: '2014'
 ---

@@ -28,6 +28,7 @@ course_title: Global Health Informatics to Improve Quality of Care
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 3625a2a7-b707-7a4c-97b2-ad0fc8bf1f8d
@@ -55,7 +56,7 @@ topics:
   - Systems Design
 - - Health and Medicine
   - Public Health
-uid: b460657a-65ee-4622-bca3-027b8c32cec0
+uid: 3de42c65-8d62-4026-aa05-558befa01ee6
 url_path: courses/hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020
 year: '2020'
 ---

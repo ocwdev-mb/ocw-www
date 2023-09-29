@@ -41,7 +41,7 @@ title: Media Industries and Systems
 topics:
 - - Fine Arts
   - Media Studies
-uid: d39af545-bc55-4f8f-9d17-404893428c67
+uid: e9c89c17-65d6-4b88-bbd9-5bb1d3f1e741
 url_path: courses/cms-610-media-industries-and-systems-spring-2006
 year: '2006'
 ---

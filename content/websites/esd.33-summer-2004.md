@@ -42,7 +42,7 @@ title: Systems Engineering
 topics:
 - - Engineering
   - Systems Engineering
-uid: 78d82aac-5c1a-493b-a339-cd61f5e9a637
+uid: 272605c3-297a-4ded-ad24-f31ce2e46a67
 url_path: courses/esd-33-systems-engineering-summer-2004
 year: '2004'
 ---

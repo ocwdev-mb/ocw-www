@@ -44,7 +44,7 @@ topics:
   - Computational Modeling and Simulation
 - - Engineering
   - Systems Engineering
-uid: 52fccdc2-22f6-4d6a-a18b-93c0a19c10b8
+uid: a675dabf-b099-4d5b-89e8-5708c9c86272
 url_path: courses/esd-70j-engineering-economy-module-fall-2009
 year: '2009'
 ---

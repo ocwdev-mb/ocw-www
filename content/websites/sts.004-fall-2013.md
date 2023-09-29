@@ -44,7 +44,7 @@ topics:
   - Communication
 - - Social Science
   - Sociology
-uid: 3f612500-d699-448b-a2ad-b973fc7b9b52
+uid: 6ce20d46-e4b8-4237-823a-1ca0dc0d3b3f
 url_path: courses/sts-004-science-technology-world-fall-2013
 year: '2013'
 ---

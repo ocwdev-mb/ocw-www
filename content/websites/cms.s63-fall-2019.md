@@ -44,7 +44,7 @@ topics:
   - Media Studies
 - - Social Science
   - Game Theory
-uid: a4580839-ca11-4853-8192-85ed160a8d7c
+uid: 1d6c6066-c641-4cb0-a3e8-5018e892329f
 url_path: courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019
 year: '2019'
 ---

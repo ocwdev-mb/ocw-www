@@ -45,7 +45,7 @@ topics:
   - Public Health
 - - Science
   - Physics
-uid: 97edad3b-d135-4ba7-800b-692dd0244a4e
+uid: 3817357e-5e25-4c01-81d7-0e453b86b266
 url_path: courses/res-10-s95-physics-of-covid-19-transmission-fall-2020
 year: '2020'
 ---

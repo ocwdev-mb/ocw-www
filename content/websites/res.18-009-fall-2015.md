@@ -49,7 +49,7 @@ topics:
   - Differential Equations
 - - Mathematics
   - Linear Algebra
-uid: e3576fb7-00bc-4890-a92e-0110f025e3d7
+uid: 2a98264a-a237-4e4e-9af9-0d872cbc6c35
 url_path: courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015
 year: '2015'
 ---

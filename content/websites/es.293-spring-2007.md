@@ -43,7 +43,7 @@ topics:
 - - Engineering
   - Mechanical Engineering
   - Mechanical Design
-uid: c572f47d-e4b2-4083-a3c1-89bb61b82f1d
+uid: 63315c3f-2ad2-4586-9f6a-3fe3dcd7d500
 url_path: courses/es-293-lego-robotics-spring-2007
 year: '2007'
 ---

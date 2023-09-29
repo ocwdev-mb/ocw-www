@@ -54,7 +54,7 @@ topics:
 - - Engineering
   - Systems Engineering
   - Systems Optimization
-uid: 94761c07-5e11-4bd9-85ff-e8e7c2a95bd9
+uid: b23c1044-a1d7-4323-90a2-d67176af8aeb
 url_path: courses/esd-71-engineering-systems-analysis-for-design-fall-2008
 year: '2008'
 ---

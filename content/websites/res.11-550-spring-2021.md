@@ -25,6 +25,7 @@ course_title: Leveraging Urban Mobility Disruptions to Create Better Cities
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 1aa1da3a-e3bc-3cda-0ef6-31c063c9d5c0
@@ -46,7 +47,7 @@ topics:
 - - Social Science
   - Urban Studies
   - Transportation Planning
-uid: cf3cefd4-5a5e-45e2-9a71-6199f5c44740
+uid: 5c2c64b5-f0fd-4fa0-b565-e14d15948e72
 url_path: courses/res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021
 year: '2021'
 ---

@@ -44,7 +44,7 @@ topics:
   - Systems Optimization
 - - Business
   - Project Management
-uid: c43d5529-14e5-467e-a2c6-93504cbfc19a
+uid: 6bcc485d-0b50-41d1-a174-404cf295b91c
 url_path: courses/esd-60-lean-six-sigma-processes-summer-2004
 year: '2004'
 ---

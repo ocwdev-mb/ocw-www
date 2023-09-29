@@ -41,7 +41,7 @@ topics:
 - - Science
   - Biology
   - Developmental Biology
-uid: 8c3768d4-00ca-4e3b-a20f-8e4adc939c59
+uid: e4378aca-41f7-40d4-919b-df8597ea9e61
 url_path: courses/hst-071-human-reproductive-biology-fall-2005
 year: '2005'
 ---

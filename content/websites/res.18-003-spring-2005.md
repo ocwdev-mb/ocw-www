@@ -20,6 +20,7 @@ course_title: Calculus for Beginners and Artists
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 46f7f667-3c6a-590e-2a93-addf2eafda73
@@ -36,7 +37,7 @@ topics:
   - Calculus
 - - Mathematics
   - Differential Equations
-uid: db53daee-89d3-4acf-a82f-1c7594afc041
+uid: 97480fa3-9f8b-42cc-a71f-5ff0f87c5e0d
 url_path: courses/res-18-003-calculus-for-beginners-and-artists-spring-2005
 year: '2005'
 ---

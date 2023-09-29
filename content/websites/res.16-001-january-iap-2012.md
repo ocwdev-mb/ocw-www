@@ -66,7 +66,7 @@ topics:
   - Operations Management
 - - Business
   - Project Management
-uid: b8bc6812-2367-4ef9-b6d0-b4193d72bbcf
+uid: fdf04f07-d38c-4b1d-978a-075f07654b4b
 url_path: courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012
 year: '2012'
 ---

@@ -68,7 +68,7 @@ topics:
 - - Fine Arts
   - Visual Arts
   - Graphic Design
-uid: d701b81b-2971-4dc1-bbd5-9cbf12b1392c
+uid: f425dd6c-81aa-4ad5-9593-e4ae35bdb767
 url_path: courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016
 year: '2016'
 ---

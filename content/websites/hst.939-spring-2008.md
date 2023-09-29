@@ -55,7 +55,7 @@ topics:
   - Biomedical Enterprise
 - - Business
   - Health Care Management
-uid: f55acfbb-f0f2-43e3-b1db-7cf24bc1a5b1
+uid: 8d892115-305a-4ed4-a418-47b83b9571c1
 url_path: courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008
 year: '2008'
 ---

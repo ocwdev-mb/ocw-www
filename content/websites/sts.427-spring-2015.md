@@ -44,7 +44,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: a945d6dd-7f77-4eb4-be54-d8d36010dbfa
+uid: 38db5052-e848-44e3-9b6c-e746bcc2f0be
 url_path: courses/sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015
 year: '2015'
 ---

@@ -50,7 +50,7 @@ topics:
 - - Science
   - Physics
   - Electromagnetism
-uid: ca3727ea-82b3-4e1f-a3d2-7057b4bedda9
+uid: d49d71cb-ad53-4b13-b2d2-f85432f55039
 url_path: courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017
 year: '2017'
 ---

@@ -47,7 +47,7 @@ topics:
 - - Humanities
   - Literature
   - Academic Writing
-uid: 2be536b9-ae75-4da2-91a1-db93c3961081
+uid: fb448846-3ec1-423e-b6d2-88035cfb3376
 url_path: courses/sts-034-science-communication-a-practical-guide-fall-2011
 year: '2011'
 ---

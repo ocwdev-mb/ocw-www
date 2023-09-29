@@ -50,7 +50,7 @@ topics:
   - Latin and Caribbean Studies
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 8ca7d274-05d1-4bc1-8a57-60912b0a51f6
+uid: 294f66e3-3de8-486f-8bd2-bebf710aa59c
 url_path: courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017
 year: '2017'
 ---

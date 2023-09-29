@@ -41,7 +41,7 @@ topics:
   - Global Poverty
 - - Society
   - The Developing World
-uid: 66bb74b8-6aa2-4df4-ab88-140a2b0e7881
+uid: a94d881c-df4b-4c14-83c6-30470e562a67
 url_path: courses/es-253-aids-and-poverty-in-africa-spring-2005
 year: '2005'
 ---

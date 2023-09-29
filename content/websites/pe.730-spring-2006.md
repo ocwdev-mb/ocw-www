@@ -37,7 +37,7 @@ title: Archery
 topics:
 - - Health and Medicine
   - Physical Education and Recreation
-uid: 9b0b1015-6f1a-4ce4-8511-a9b38f28b8d5
+uid: 1cdc55de-bb59-48ae-987b-3d1d512c830e
 url_path: courses/pe-730-archery-spring-2006
 year: '2006'
 ---

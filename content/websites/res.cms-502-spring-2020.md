@@ -26,6 +26,7 @@ course_title: 'Competency-Based Education: The Why, What, and How'
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 89666a17-6a2a-c8a6-7d92-867266505def
@@ -42,7 +43,7 @@ term: Spring
 title: 'Competency-Based Education: The Why, What, and How'
 topics:
 - - Teaching and Education
-uid: ec46bbb8-83a7-4d02-b859-23e83accbcac
+uid: d8d89fc1-6558-4ef8-ac5d-dea84b23f586
 url_path: courses/res-cms-502-competency-based-education-the-why-what-and-how-spring-2020
 year: '2020'
 ---

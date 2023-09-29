@@ -50,7 +50,7 @@ topics:
   - Mechanical Engineering
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 0b28eff2-faa5-4372-a521-899e425aa64c
+uid: 995659ce-9db3-4a42-bca5-1efdcec5152b
 url_path: courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
 year: '2015'
 ---

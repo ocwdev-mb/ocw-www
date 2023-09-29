@@ -43,7 +43,7 @@ topics:
   - Cognitive Science
 - - Social Science
   - Psychology
-uid: 6711c327-9a2d-4bb6-bc9c-2d9601d0cbe1
+uid: 95798a72-c897-4fc8-a92c-307b260e1100
 url_path: courses/mas-630-affective-computing-fall-2015
 year: '2015'
 ---

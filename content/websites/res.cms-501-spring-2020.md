@@ -37,6 +37,7 @@ course_title: Envisioning the Graduate of the Future
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 89666a17-6a2a-c8a6-7d92-867266505def
@@ -55,7 +56,7 @@ topics:
 - - Teaching and Education
 - - Teaching and Education
   - Curriculum and Teaching
-uid: e49be0ce-3b17-4fa3-b2c1-786882045539
+uid: bb230d3c-daee-4d80-a161-07d3fa0c7232
 url_path: courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020
 year: '2020'
 ---

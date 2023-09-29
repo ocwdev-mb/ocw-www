@@ -21,6 +21,7 @@ course_title: 'Climate Science, Risk & Solutions: A Climate Primer'
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - d611afa5-56fb-9311-806f-323a785e0dcc
@@ -45,7 +46,7 @@ topics:
 - - Science
   - Earth Science
   - Sustainability
-uid: aa1e27d8-c695-4965-9c91-5d0b44780ecc
+uid: dfbd66d1-c842-4917-a045-40c935310cfb
 url_path: courses/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020
 year: '2020'
 ---

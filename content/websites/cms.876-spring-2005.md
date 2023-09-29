@@ -41,7 +41,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: b920fe30-2a5b-408b-94b6-cd9b420b658e
+uid: 3507712f-f467-4525-9855-848098eeebb9
 url_path: courses/cms-876-history-of-media-and-technology-spring-2005
 year: '2005'
 ---

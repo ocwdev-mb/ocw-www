@@ -23,6 +23,7 @@ course_title: MIT Climate Portal
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - f92495a0-4a0c-fd67-4c9f-4a7515419ea0
@@ -42,7 +43,7 @@ topics:
 - - Social Science
   - Public Administration
   - Science and Technology Policy
-uid: 8127229f-497a-4eac-9b30-0d7107091992
+uid: 99b14bc9-8434-4d53-9a19-03576e84c90b
 url_path: courses/res-env-004-mit-climate-portal-fall-2020
 year: '2020'
 ---

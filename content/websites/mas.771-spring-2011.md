@@ -46,7 +46,7 @@ topics:
   - Human-Computer Interfaces
 - - Health and Medicine
   - Mental Health
-uid: f00d8665-f96c-431d-86b3-143865bbede2
+uid: 03ab3aae-4486-4737-a479-25c81e7de108
 url_path: courses/mas-771-autism-theory-and-technology-spring-2011
 year: '2011'
 ---

@@ -51,7 +51,7 @@ topics:
 - - Humanities
   - Literature
   - Classics
-uid: 19dfefee-f596-4a80-bfeb-e3234282e018
+uid: b754e773-3d95-4433-ba82-20fcabe24660
 url_path: courses/es-113-ancient-greek-philosophy-and-mathematics-spring-2016
 year: '2016'
 ---

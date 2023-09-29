@@ -50,7 +50,7 @@ topics:
   - Technical Writing
 - - Social Science
   - Communication
-uid: 47179f9b-3d60-4093-bb91-57931500a067
+uid: df1d827e-a262-4ec3-9225-e5bff533d260
 url_path: courses/21w-780-communicating-in-technical-organizations-fall-2001
 year: '2001'
 ---

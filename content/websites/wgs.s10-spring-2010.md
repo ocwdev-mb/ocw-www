@@ -43,7 +43,7 @@ topics:
   - Women's Studies
 - - Society
   - Latin and Caribbean Studies
-uid: 3925bd10-0819-4870-b0be-ffecfe784bbc
+uid: a1495978-d530-4abf-be75-f5f59a12acd7
 url_path: courses/wgs-s10-special-topics-in-women-gender-studies-seminar-latina-womens-voices-spring-2010
 year: '2010'
 ---

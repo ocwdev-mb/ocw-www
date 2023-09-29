@@ -25,6 +25,7 @@ course_title: MIT Sloan Teaching Resources Library
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - c9325e78-1760-933f-7bdc-a9df16b71044
@@ -35,7 +36,7 @@ level:
 - Non Credit
 primary_course_number: RES.15-001
 term: Fall
-title: MIT Sloan LearningEdge
+title: MIT Sloan Teaching Resources Library
 topics:
 - - Business
   - Management
@@ -51,7 +52,7 @@ topics:
   - Finance
 - - Business
   - Operations Management
-uid: 1da6b0dc-7f21-4843-a7f5-e68722e8403b
+uid: 9c34747a-97f7-42d6-af4d-b8f7e4413904
 url_path: courses/res-15-001-mit-sloan-learningedge-fall-2008
 year: '2008'
 ---

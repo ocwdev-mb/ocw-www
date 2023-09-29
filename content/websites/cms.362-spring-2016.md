@@ -60,7 +60,7 @@ topics:
 - - Social Science
   - Urban Studies
 - - Society
-uid: 1aa3838f-87a8-48fa-88b0-8645fc43357e
+uid: 0c80cbf0-2924-498a-a10e-03d4d3f7eab2
 url_path: courses/cms-362-civic-media-codesign-studio-spring-2016
 year: '2016'
 ---

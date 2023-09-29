@@ -40,7 +40,7 @@ topics:
   - Mechanical Engineering
 - - Science
   - Physics
-uid: bcf9d75c-e09b-4fed-98ff-b361339ffe7a
+uid: 13bb0baf-b4b3-4712-aded-37e0158e82bc
 url_path: courses/es-255-physics-of-rock-climbing-spring-2006
 year: '2006'
 ---
