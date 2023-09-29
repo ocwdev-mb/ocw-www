@@ -49,7 +49,7 @@ topics:
 - - Engineering
   - Computer Science
   - Data Mining
-uid: f5fefe20-8750-4729-b0f7-26b90427bf41
+uid: 1ee57c80-5f30-4486-91b2-366ae78e115c
 url_path: courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020
 year: '2020'
 ---

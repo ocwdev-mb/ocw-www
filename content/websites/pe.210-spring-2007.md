@@ -38,7 +38,7 @@ title: SCUBA
 topics:
 - - Health and Medicine
   - Physical Education and Recreation
-uid: 68401036-3a43-45a4-978b-235b85d7ddb6
+uid: 06784b12-9018-4229-b791-e780e2244ca2
 url_path: courses/pe-210-scuba-spring-2007
 year: '2007'
 ---

@@ -37,7 +37,7 @@ topics:
 - - Humanities
   - Literature
   - Creative Writing
-uid: 3cdba4fc-21d1-41f4-8221-5ef824243f99
+uid: 687e90ae-881c-4317-be1b-c574ca5b2fe6
 url_path: courses/es-292-writing-workshop-spring-2008
 year: '2008'
 ---

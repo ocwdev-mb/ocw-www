@@ -46,7 +46,7 @@ topics:
 - - Science
   - Biology
   - Neuroscience
-uid: 575cf362-54f7-4fb6-be24-07d12c531b12
+uid: aac762b6-5cf7-4839-ba4d-907fb41dcc6e
 url_path: courses/hst-721-the-peripheral-auditory-system-fall-2005
 year: '2005'
 ---

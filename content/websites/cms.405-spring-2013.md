@@ -42,7 +42,7 @@ topics:
 - - Fine Arts
   - Visual Arts
   - Graphic Design
-uid: e5e4d801-bc19-4b5e-9557-db351568d9d1
+uid: 4e0e32c8-15f8-4281-9cb3-8e7f285f70ff
 url_path: courses/cms-405-media-and-methods-seeing-and-expression-spring-2013
 year: '2013'
 ---

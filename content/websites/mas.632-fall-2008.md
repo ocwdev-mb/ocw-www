@@ -45,7 +45,7 @@ topics:
   - Telecommunications
 - - Science
   - Cognitive Science
-uid: d9f9d399-925a-49ff-82f6-258c915343bd
+uid: c276b397-5d7d-4808-b1be-7af82e2422fc
 url_path: courses/mas-632-conversational-computer-systems-fall-2008
 year: '2008'
 ---

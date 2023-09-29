@@ -42,7 +42,7 @@ topics:
   - Media Studies
 - - Social Science
   - Psychology
-uid: 20b121e3-2017-41df-bf3a-ca8bbd024ab9
+uid: c213c9bf-8594-47f6-9456-0a0bfef2167e
 url_path: courses/mas-961-seminar-on-deep-engagement-fall-2004
 year: '2004'
 ---

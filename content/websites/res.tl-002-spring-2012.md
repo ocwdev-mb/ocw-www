@@ -33,6 +33,7 @@ course_title: 'STAR: Software Tools for Academics and Researchers'
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 24fb87fd-6eae-f633-8abc-2bab8e6895de
@@ -71,7 +72,7 @@ topics:
 - - Engineering
   - Environmental Engineering
   - Hydrology and Water Resource Systems
-uid: 5faa4f77-60df-4fe5-94c8-d5d0b8b32d5d
+uid: 216a009f-6ab0-4615-b005-6f2473b6e0ed
 url_path: courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012
 year: '2012'
 ---

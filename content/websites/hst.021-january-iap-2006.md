@@ -41,7 +41,7 @@ topics:
   - Biomechanics
 - - Health and Medicine
   - Anatomy and Physiology
-uid: 183761b8-4355-4c88-aaf4-85688b14e7c7
+uid: 63058d89-a19e-45c8-b708-c8876bb33a1f
 url_path: courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006
 year: '2006'
 ---

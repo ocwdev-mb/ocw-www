@@ -32,7 +32,7 @@ term: Spring
 title: 'Learning Seminar: Experiments in Education'
 topics:
 - - Teaching and Education
-uid: aae54992-c487-42bf-8937-35999bb1f184
+uid: d22aa5ec-524a-43cf-b487-701b3efa7c3e
 url_path: courses/es-291-learning-seminar-experiments-in-education-spring-2003
 year: '2003'
 ---

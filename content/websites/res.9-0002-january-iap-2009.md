@@ -43,7 +43,7 @@ topics:
   - Graphics and Visualization
 - - Mathematics
   - Probability and Statistics
-uid: 272c2ede-28f8-430b-9701-88b7ec090937
+uid: ad8be7e8-f3ce-43a9-be37-a23714f6393a
 url_path: courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009
 year: '2009'
 ---

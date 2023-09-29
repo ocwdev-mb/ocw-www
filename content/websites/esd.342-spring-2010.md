@@ -43,7 +43,7 @@ topics:
 - - Engineering
   - Systems Engineering
   - Computational Modeling and Simulation
-uid: a6a88d25-c8f9-47dc-a95d-231e8ca7175f
+uid: 077818b4-9bf1-489c-a805-05f673f818ed
 url_path: courses/esd-342-network-representations-of-complex-engineering-systems-spring-2010
 year: '2010'
 ---

@@ -25,7 +25,7 @@ primary_course_number: '1'
 term: ''
 title: test-site
 topics: []
-uid: dc900840-9f07-4b54-9076-57e39efc86b6
+uid: 11f73bde-c3b8-4889-bc70-b56b2884d6d2
 url_path: courses/test-site
 year: ''
 ---

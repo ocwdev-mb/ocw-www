@@ -24,19 +24,21 @@ instructors:
   content:
   - 00def954-49e8-4b1d-9a8c-d9925ac2b0e4
   website: ocw-www
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments with Examples
+- Lecture Notes
 legacy_uid: ''
 level:
 - Undergraduate
 - Graduate
 - Non Credit
 primary_course_number: RES.7-005
-term: Summer
+term: Fall
 title: Biology Teaching Assistant (TA) Training
 topics:
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 33c7c262-7eb5-4f14-ba56-a75ef1778126
-url_path: courses/res-7-005-biology-teaching-assistant-ta-training-summer-2020
-year: '2020'
+uid: c7cbb0e4-afe6-444f-a47d-0172dd39d3ff
+url_path: courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021
+year: '2021'
 ---

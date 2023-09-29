@@ -46,7 +46,7 @@ topics:
   - Global Poverty
 - - Society
   - The Developing World
-uid: 2ce954b3-77ed-45e3-90f9-fa349672ba4b
+uid: 38ec288c-e6eb-463e-b1bb-73a2e07d9c17
 url_path: courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018
 year: '2018'
 ---

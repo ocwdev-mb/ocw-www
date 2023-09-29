@@ -51,7 +51,7 @@ topics:
   - Social Justice
 - - Fine Arts
   - Media Studies
-uid: 0f4fe88d-98e2-4724-a573-f42969e454ff
+uid: 84ccc430-9ffa-4eb2-8d2c-1955b3d1025f
 url_path: courses/cms-361-networked-social-movements-media-mobilization-spring-2014
 year: '2014'
 ---

@@ -48,7 +48,7 @@ topics:
 - - Social Science
   - Public Administration
   - Social Welfare
-uid: 1941919c-296c-46a1-bbac-1e54c34d654b
+uid: 5143a1bb-95af-4986-a8a5-ee2590aa2216
 url_path: courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 year: '2016'
 ---

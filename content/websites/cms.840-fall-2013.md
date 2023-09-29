@@ -62,7 +62,7 @@ topics:
 - - Humanities
   - Literature
   - American Literature
-uid: e56c2f06-6dd8-4354-9161-8a4f90bdaba7
+uid: d16ec134-6884-466b-a27a-f4148f3f085c
 url_path: courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013
 year: '2013'
 ---

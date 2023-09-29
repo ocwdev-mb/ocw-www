@@ -49,7 +49,7 @@ topics:
   - History of Science and Technology
 - - Health and Medicine
   - Epidemiology
-uid: 147ac150-e57d-483d-b7ab-8e5f27319e63
+uid: 332acadb-b381-4ce7-b464-0aa93c85d46c
 url_path: courses/sts-005-disease-and-society-in-america-fall-2005
 year: '2005'
 ---

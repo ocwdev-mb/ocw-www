@@ -44,7 +44,7 @@ topics:
   - Systems Engineering
 - - Mathematics
   - Probability and Statistics
-uid: eb04b744-6b71-4e56-aa73-32b9ff739de0
+uid: 91e0c76b-d7b0-472d-812b-7cb9ba287854
 url_path: courses/mas-961-networks-complexity-and-its-applications-spring-2011
 year: '2011'
 ---

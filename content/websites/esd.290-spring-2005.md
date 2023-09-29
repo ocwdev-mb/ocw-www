@@ -48,7 +48,7 @@ topics:
   - Systems Engineering
 - - Business
   - Operations Management
-uid: e4282a22-8a2d-4e11-adb8-ac74323eea84
+uid: d6d6b09e-85de-4805-9743-5d5d72029b29
 url_path: courses/esd-290-special-topics-in-supply-chain-management-spring-2005
 year: '2005'
 ---

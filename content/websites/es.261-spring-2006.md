@@ -44,7 +44,7 @@ topics:
 - - Humanities
   - Literature
   - Criticism
-uid: a3b6a90f-5af3-465e-9cdd-eb00081bf35d
+uid: 7c559a13-e9f0-49f0-a30b-9642358c7460
 url_path: courses/es-261-poetry-in-translation-spring-2006
 year: '2006'
 ---

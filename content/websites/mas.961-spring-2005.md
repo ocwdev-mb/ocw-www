@@ -47,7 +47,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 0fc48273-93b2-4562-b169-e43b1461897e
+uid: a34f2587-0750-40d9-9712-0f4e559df889
 url_path: courses/mas-961-ambient-intelligence-spring-2005
 year: '2005'
 ---

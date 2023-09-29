@@ -47,7 +47,7 @@ topics:
 - - Science
   - Biology
   - Neurobiology
-uid: add38148-cfdb-40ae-a150-f921766c354f
+uid: 62be6a05-082e-48a2-a21a-064c9f6e9f23
 url_path: courses/es-s10-drugs-and-the-brain-spring-2013
 year: '2013'
 ---

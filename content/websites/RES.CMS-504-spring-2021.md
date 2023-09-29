@@ -26,6 +26,7 @@ course_title: 'Sorting Truth From Fiction: Civic Online Reasoning'
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 89666a17-6a2a-c8a6-7d92-867266505def
@@ -40,7 +41,7 @@ term: Spring
 title: 'Sorting Truth From Fiction: Civic Online Reasoning'
 topics:
 - - Teaching and Education
-uid: 3780b13f-c78c-40ed-809a-d8e872acbeff
+uid: 5ef5c449-998a-40ce-9cca-1f41e5b3c65e
 url_path: courses/res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021
 year: '2021'
 ---

@@ -44,7 +44,7 @@ topics:
   - Gender Studies
 - - Society
   - Women's Studies
-uid: 0e3a6140-090f-4cd9-a1d0-2b678c43fc01
+uid: 6ec28a3f-0199-427b-864b-dd6b468ed948
 url_path: courses/wgs-301j-feminist-thought-fall-2014
 year: '2014'
 ---

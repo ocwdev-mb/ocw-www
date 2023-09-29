@@ -27,6 +27,7 @@ course_title: Case Studies in Social and Ethical Responsibilities of Computing
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - a82bdf46-94f8-6a7a-7a3c-39dccc6b5001
@@ -47,7 +48,7 @@ topics:
   - Ethics
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 2d1f5db9-5756-4d09-a755-b3d48ce94369
+uid: 6158692e-d54e-4afd-b8f1-3b4775050555
 url_path: courses/res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021
 year: '2021'
 ---

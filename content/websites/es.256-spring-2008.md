@@ -39,7 +39,7 @@ topics:
 - - Humanities
   - History
   - Modern History
-uid: c6c9b865-df2b-40f8-90fe-ddf2fda4cb80
+uid: d03a7ecd-201f-47ae-9f85-c2aa490efd2d
 url_path: courses/es-256-the-coming-years-spring-2008
 year: '2008'
 ---

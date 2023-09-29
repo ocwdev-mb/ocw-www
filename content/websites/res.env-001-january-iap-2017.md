@@ -59,7 +59,7 @@ topics:
 - - Social Science
   - Public Administration
   - Environmental Policy
-uid: ff7dcf6b-2df0-402c-ac4e-331b168b38fd
+uid: 56239afa-0ad5-4a9e-8a9a-7834a5a05080
 url_path: courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017
 year: '2017'
 ---

@@ -48,7 +48,7 @@ topics:
 - - Science
   - Earth Science
   - Sustainability
-uid: 29e470ff-b454-4815-b877-e61a70a58668
+uid: 742a7ba0-ecee-4f24-87c4-422991a96ab7
 url_path: courses/ec-715-d-lab-water-sanitation-and-hygiene-fall-2019
 year: '2019'
 ---

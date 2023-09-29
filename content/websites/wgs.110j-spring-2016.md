@@ -43,7 +43,7 @@ topics:
   - Gender Studies
 - - Society
   - Women's Studies
-uid: 927f5a8a-5913-4509-84de-7ba12bb7c4c0
+uid: 9d6c2c6c-dd3a-45f2-b4b8-4ac556160e45
 url_path: courses/wgs-110j-sexual-and-gender-identities-spring-2016
 year: '2016'
 ---

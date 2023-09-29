@@ -42,7 +42,7 @@ topics:
   - Leadership
 - - Business
   - Management
-uid: 7ce35460-ea0a-4194-a484-519c3faaa407
+uid: afb79b8b-1e83-4ee4-bd53-988daab63bcd
 url_path: courses/esd-s51-systems-leadership-and-management-praxis-summer-2014
 year: '2014'
 ---

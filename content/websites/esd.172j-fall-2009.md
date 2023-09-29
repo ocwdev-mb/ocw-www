@@ -49,7 +49,7 @@ topics:
   - Industrial Organization
 - - Business
   - Entrepreneurship
-uid: 199bd48e-54ac-4e4d-a8ee-74dc6cfa00bd
+uid: 991111dc-d6eb-4f7c-9546-9b6752af8d39
 url_path: courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009
 year: '2009'
 ---

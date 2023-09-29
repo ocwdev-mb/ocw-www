@@ -42,7 +42,7 @@ topics:
   - Calculus
 - - Mathematics
   - Differential Equations
-uid: e5724e37-12fd-4c65-ad25-d7ba6cdbccff
+uid: cfc51efa-b869-4a1c-89ba-80296de606a9
 url_path: courses/res-18-001-calculus-online-textbook-spring-2005
 year: '2005'
 ---

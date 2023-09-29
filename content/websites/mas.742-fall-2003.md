@@ -45,7 +45,7 @@ topics:
 - - Engineering
   - Electrical Engineering
   - Electronics
-uid: 275c139a-5991-4bdc-92fe-ef87c7bf7857
+uid: 6c790155-5060-4eca-a5b7-77b4cb32d207
 url_path: courses/mas-742-industrial-design-intelligence-a-cognitive-approach-to-engineering-fall-2003
 year: '2003'
 ---

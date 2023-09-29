@@ -50,7 +50,7 @@ topics:
 - - Engineering
   - Mechanical Engineering
   - Mechanical Design
-uid: 68eb7009-5c12-4452-a5b5-cb47e64c29e8
+uid: 1a5cd9d0-edf9-4ac5-8d8c-e955ad22ac67
 url_path: courses/ec-s06-design-for-demining-spring-2007
 year: '2007'
 ---

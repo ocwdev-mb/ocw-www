@@ -58,7 +58,7 @@ topics:
 - - Engineering
   - Mechanical Engineering
   - Mechanical Design
-uid: 5a765454-18a1-4428-8308-204398d09580
+uid: a5072d8e-161a-4a05-8e7c-d0372039a2bd
 url_path: courses/ec-s06-prototypes-to-products-fall-2005
 year: '2005'
 ---

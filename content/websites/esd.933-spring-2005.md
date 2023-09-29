@@ -41,7 +41,7 @@ topics:
   - Organizational Behavior
 - - Social Science
   - Communication
-uid: 1f634bd1-248c-40ee-abc3-8ddf3efb6e86
+uid: 868d086a-6e41-4766-a79d-5c082f31873c
 url_path: courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005
 year: '2005'
 ---

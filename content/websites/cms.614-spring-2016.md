@@ -44,7 +44,7 @@ topics:
   - Gender Studies
 - - Social Science
   - Anthropology
-uid: 500ce649-2a84-4542-8d21-3a51b7b25576
+uid: d43e80da-e96a-47e2-a000-84355b038b62
 url_path: courses/cms-614-network-cultures-spring-2016
 year: '2016'
 ---

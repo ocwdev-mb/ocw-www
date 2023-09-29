@@ -17,6 +17,7 @@ course_title: Physics Demonstration Videos
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - c2c5d8b7-1a20-424a-6836-c8c50fdea9ba
@@ -31,7 +32,7 @@ title: Physics Demonstration Videos
 topics:
 - - Science
   - Physics
-uid: 278d37b5-1ff3-467a-a5ad-f16c37d9a141
+uid: ec6a4bf7-22f5-4116-bcf5-0e42790126ee
 url_path: courses/res-8-003-physics-demonstration-videos-spring-2012
 year: '2012'
 ---

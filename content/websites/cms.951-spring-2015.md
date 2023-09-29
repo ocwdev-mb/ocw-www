@@ -53,7 +53,7 @@ topics:
   - Social Anthropology
 - - Fine Arts
   - Media Studies
-uid: d2c76e76-a6a4-42b6-8515-664dce152c55
+uid: bed8f31e-ac53-43ce-b589-35b513252911
 url_path: courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015
 year: '2015'
 ---

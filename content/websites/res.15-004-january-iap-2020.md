@@ -38,7 +38,7 @@ topics:
   - Operations Management
 - - Business
   - Organizational Behavior
-uid: e34f7804-71a3-4374-b125-b54f47cfe182
+uid: 3b9e9fb9-bb82-4337-81a6-f14b34fccb8a
 url_path: courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020
 year: '2020'
 ---

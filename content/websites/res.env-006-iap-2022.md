@@ -44,7 +44,7 @@ topics:
   - Sustainability
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 91e5c4f7-6d9f-4974-a443-17b30dffd8e0
+uid: 567608a8-a4a5-4476-8ecd-7843bafd5f99
 url_path: courses/res-env-006-teaching-with-sustainability-january-iap-2022
 year: '2022'
 ---

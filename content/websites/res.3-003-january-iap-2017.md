@@ -62,7 +62,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 7658a675-a5c2-4745-8547-520a91c630fd
+uid: 2fc20bad-a560-4bee-b99d-9532d4f52872
 url_path: courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017
 year: '2017'
 ---

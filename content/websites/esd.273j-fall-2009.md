@@ -44,7 +44,7 @@ topics:
   - Systems Engineering
 - - Business
   - Operations Management
-uid: d32fc5de-2f07-4717-ae12-77a9d433923d
+uid: 16b99d30-8657-49e8-b4d7-8a6c25bbf76e
 url_path: courses/esd-273j-logistics-and-supply-chain-management-fall-2009
 year: '2009'
 ---

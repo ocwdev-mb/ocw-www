@@ -37,7 +37,7 @@ title: Tennis
 topics:
 - - Health and Medicine
   - Physical Education and Recreation
-uid: 1436a98b-5403-442d-9e50-16030bccfa61
+uid: 3ded6651-4a89-4fbe-b903-d3871b4e8480
 url_path: courses/pe-710-tennis-spring-2007
 year: '2007'
 ---

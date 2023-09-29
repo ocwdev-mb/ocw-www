@@ -46,7 +46,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: b23ba610-4539-475d-a827-078ed2ac9b65
+uid: c6f30b9d-7210-4461-a581-28c42cad1779
 url_path: courses/sts-464-cultural-history-of-technology-spring-2005
 year: '2005'
 ---

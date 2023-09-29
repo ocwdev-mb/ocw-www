@@ -66,7 +66,7 @@ topics:
   - Nonfiction Prose
 - - Social Science
   - Communication
-uid: ce5c7c65-b15d-40c0-bebb-dbd5b069f9ae
+uid: 19224b5d-eb75-4d65-a92e-bffd695b5f63
 url_path: courses/res-21w-01-angles-fall-2015
 year: '2015'
 ---

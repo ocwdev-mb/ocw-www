@@ -9,5 +9,5 @@ metadata:
   image_alt: ''
 resourcetype: Image
 title: dhp_energy-courses.jpg
-uid: 3a0b0318-079c-4dec-bc12-64e9083bdc91
+uid: 9153355c-44bf-48bc-8e0f-1c63395b1c49
 ---

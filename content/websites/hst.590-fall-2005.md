@@ -42,7 +42,7 @@ topics:
 - - Humanities
   - Philosophy
   - Ethics
-uid: 96fd59a8-4bea-429c-9767-1eb8b1d1982d
+uid: 95aa65c9-1763-49fd-bb2f-99ea68c29b94
 url_path: courses/hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006
 year: '2005'
 ---

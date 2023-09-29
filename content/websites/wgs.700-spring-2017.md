@@ -60,7 +60,7 @@ topics:
   - Gender Studies
 - - Society
   - African American Studies
-uid: 52650626-e935-42db-9a06-16ac9a4d2a2b
+uid: 7b52fb78-817c-44eb-a715-f5e941672199
 url_path: courses/wgs-700-changing-life-reading-the-intersections-of-gender-race-biology-and-literature-spring-2017
 year: '2017'
 ---

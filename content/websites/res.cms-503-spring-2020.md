@@ -57,7 +57,7 @@ topics:
   - Curriculum and Teaching
 - - Teaching and Education
   - Educational Technology
-uid: e42dd699-14b5-4ab1-bd14-b424a6b6ea83
+uid: 1f9deed4-0781-43d8-aa23-44f90fc41c13
 url_path: courses/res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020
 year: '2020'
 ---

@@ -42,7 +42,7 @@ title: Principles of Pharmacology
 topics:
 - - Health and Medicine
   - Pharmacology and Toxicology
-uid: 053cad92-6c0c-4fbd-aee0-24bccb1a4b6d
+uid: 7bfe0fba-78f3-4412-a61a-da67621b2a2c
 url_path: courses/hst-151-principles-of-pharmacology-spring-2005
 year: '2005'
 ---

@@ -15,12 +15,10 @@ course_description: 'The [MIT Election Data and Science Lab](https://electionlab
 
 
   The MIT Election Lab is a founding partner in the [Stanford-MIT Healthy Elections
-  Project](https://healthyelections.org/), which was developed to ensure that the
-  2020 election can proceed with integrity, safety, and equal access. The project
-  aims to do this by bringing together academics, civic organizations, election administrators,
-  and election administration experts to assess and promote best practices.
-
-  '
+  Project](http://web.mit.edu/healthyelections/www/), which was developed to ensure
+  that the 2020 election can proceed with integrity, safety, and equal access. The
+  project aims to do this by bringing together academics, civic organizations, election
+  administrators, and election administration experts to assess and promote best practices.'
 course_image:
   content: 961d7d61-f995-67ff-b130-a8ee4986b607
   website: res-17-001-mit-election-data-science-lab-fall-2020
@@ -31,6 +29,7 @@ course_title: MIT Election Data + Science Lab
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 7d20a23f-4e5b-ba93-2a96-5671e5b3da0c
@@ -46,7 +45,7 @@ topics:
 - - Social Science
   - Political Science
   - American Politics
-uid: b9210ff5-0641-4993-aa44-38440aeeafc9
+uid: 57d7c63e-41c9-4cac-8709-a7e158eae889
 url_path: courses/res-17-001-mit-election-data-science-lab-fall-2020
 year: '2020'
 ---

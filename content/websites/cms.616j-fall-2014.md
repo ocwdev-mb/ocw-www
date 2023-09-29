@@ -49,7 +49,7 @@ topics:
   - Women's Studies
 - - Social Science
   - Sociology
-uid: d8cdfd64-15ff-4ce4-a845-b4c89777408b
+uid: 20f7024b-63d6-4201-8c50-c5f6296b08ab
 url_path: courses/cms-616j-games-and-culture-fall-2014
 year: '2014'
 ---

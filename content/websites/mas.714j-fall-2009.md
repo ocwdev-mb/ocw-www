@@ -38,7 +38,7 @@ title: Technologies for Creative Learning
 topics:
 - - Teaching and Education
   - Educational Technology
-uid: f5d7b797-1463-4ced-8427-cc10d3bce462
+uid: 4e149a0a-767d-4532-98d8-d79734ea4cb4
 url_path: courses/mas-714j-technologies-for-creative-learning-fall-2009
 year: '2009'
 ---

@@ -43,7 +43,7 @@ topics:
 - - Social Science
   - Anthropology
   - Social Anthropology
-uid: ae4b1a96-1885-4a15-bd56-d6fa5b4f2716
+uid: f97fe3d4-a9fb-4c5d-a94a-64c6c1f72683
 url_path: courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002
 year: '2002'
 ---

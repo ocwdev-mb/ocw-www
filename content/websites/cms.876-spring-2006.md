@@ -48,7 +48,7 @@ topics:
 - - Fine Arts
   - Music
   - Music History
-uid: 6b4f6286-37bb-4494-b223-480d0e617bc7
+uid: dc058574-e7f3-492e-bcd7-da7952bcf1ee
 url_path: courses/cms-876-history-of-media-and-technology-sound-the-minority-report-radical-music-of-the-past-100-years-spring-2006
 year: '2006'
 ---

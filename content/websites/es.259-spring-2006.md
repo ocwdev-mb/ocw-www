@@ -41,7 +41,7 @@ topics:
   - Telecommunications
 - - Society
   - The Developing World
-uid: b9d9e1a0-5afb-4aee-bb0c-7066fa02d2b5
+uid: 412fb0f6-e336-4f91-9cef-f2ad7f9b46fc
 url_path: courses/es-259-information-and-communication-technology-in-africa-spring-2006
 year: '2006'
 ---

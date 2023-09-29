@@ -56,7 +56,7 @@ topics:
 - - Science
   - Physics
   - Quantum Mechanics
-uid: 997d6d48-145d-48f4-9e4a-d467755c268d
+uid: f3ff6c6f-75ec-4900-823e-78907eb01f0d
 url_path: courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008
 year: '2008'
 ---

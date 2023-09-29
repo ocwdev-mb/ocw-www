@@ -53,7 +53,7 @@ topics:
   - Differential Equations
 - - Mathematics
   - Linear Algebra
-uid: c0e01843-c6b0-469c-88db-d16c988bc253
+uid: 67d63b2e-eaff-456c-932d-41ff799857fd
 url_path: courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011
 year: '2011'
 ---

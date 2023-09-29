@@ -43,7 +43,7 @@ topics:
 - - Social Science
   - Economics
   - International Development
-uid: a3cb5bb9-dc47-41b0-bd01-4a727665bebc
+uid: 6afa9a16-3192-48e0-827a-d36340ee7c90
 url_path: courses/mas-666-developmental-entrepreneurship-fall-2003
 year: '2003'
 ---

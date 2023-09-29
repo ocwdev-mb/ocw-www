@@ -39,7 +39,7 @@ topics:
   - American Politics
 - - Society
   - Gender Studies
-uid: 84bddd1e-921f-436d-b83e-e4825ed7c0f5
+uid: 7c2dc49f-e4a2-4d0d-8842-8eb455ba9d95
 url_path: courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013
 year: '2013'
 ---

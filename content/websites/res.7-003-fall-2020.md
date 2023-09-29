@@ -29,6 +29,7 @@ course_title: Brave New Planet
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 8c984d5b-9b1b-6755-8f69-a4b755c0b858
@@ -60,7 +61,7 @@ topics:
 - - Social Science
   - Public Administration
   - Science and Technology Policy
-uid: 3f8aa255-eb9f-4711-948b-d46229c1a9ed
+uid: ed3600c4-4681-4c44-8bdc-15ed8494887d
 url_path: courses/res-7-003-brave-new-planet-fall-2020
 year: '2020'
 ---

@@ -46,7 +46,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 21ae79b7-0d8c-4188-9359-f051dcd7f41a
+uid: 21f47c5c-7d28-4e63-b7f5-0928fbd883d2
 url_path: courses/cms-633-digital-humanities-spring-2015
 year: '2015'
 ---
